@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  destination: one
+  cost_low: 9.99
+  cost_mid: 9.99
+  cost_high: 9.99
+
+two:
+  name: MyString
+  destination: two
+  cost_low: 9.99
+  cost_mid: 9.99
+  cost_high: 9.99
